@@ -1,4 +1,4 @@
-1. 结果文件
+# Notes
 目录里提供了8个模型（即 interpreCWS 论文里使用的）在数据集：ctb 上的结果文件。
 结果文件存放的位置：./ctb_results_8models
 结果文件的命名：例如“ctb_CbertBnonLstmMlp_9768.txt”， “ctb”表示数据集， “CbertBnonLstmMlp”表示模型的名字，“9768”表示“ctb”在模型“CbertBnonLstmMlp” 下的结果为“97.68”
