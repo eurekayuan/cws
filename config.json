@@ -1,0 +1,7 @@
+{
+    "path_data": "data/",
+    "task_type": "cws",
+    "corpus_type": "ctb",
+    "path_preComputed": "preComputed/",
+    "fn_test_results": "ctb_results_8models/ctb_CbertBnonLstmMlp_9768.txt"
+}
